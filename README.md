@@ -19,3 +19,5 @@
 * No es un café de especialidad.
 
 Esto permite visualizar la sensibilidad de los parámetros respecto al resultado de la predicción
+
+Link de la app: https://coffee-model-streamlit.herokuapp.com/
